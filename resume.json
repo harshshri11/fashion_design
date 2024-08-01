@@ -1,0 +1,90 @@
+{
+  "personal_information": {
+    "name": "Harsh Sanjay Shrivastav",
+    "email": "harshshrivastav46@gmail.com",
+    "phone": "+91 8956889077",
+    "location": "Maharashtra",
+    "linkedin": "https://linkedin.com/in/harsh-shrivastav-30614825b/",
+    "github": "https://github.com/sgduha"
+  },
+  "education": [
+    {
+      "year": "2022-25",
+      "degree": "B.TECH",
+      "institute": "VIT, Pune",
+      "cgpa_marks": "7.43/10"
+    },
+    {
+      "year": "2019-22",
+      "degree": "Diploma",
+      "institute": "IET, Kannad, Aurangabad",
+      "cgpa_marks": "89.41%"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Income Prediction",
+      "type": "Machine Learning",
+      "organization": "Mentorness",
+      "date": "Feb’24",
+      "key_responsibilities": "Led development of ML model for 'Income Prediction' project, handling 2L+ instances, 40+ features. Applied rigorous cleaning, preprocessing, and feature engineering to optimize data quality. Executed cross-validation and fine-tuning with the Random Forest Model, achieving accuracy, precision, and recall of 96%."
+    },
+    {
+      "title": "Line Guided Load Shifter",
+      "type": "Problem Solving",
+      "organization": "N/A",
+      "date": "Nov’23",
+      "key_responsibilities": "Developed and implemented a line-guided load shifter for pick-and-place operations. Collaborated with team members to meet project objectives."
+    },
+    {
+      "title": "Gold Stock Price Forecasting",
+      "type": "Time-Series",
+      "organization": "Mentorness",
+      "date": "Jan'24",
+      "key_responsibilities": "Implemented time series forecasting techniques to predict gold prices. Analyzed time-dependent patterns for strategic decisions and risk management."
+    },
+    {
+      "title": "Pothole Detection",
+      "type": "YOLOv5",
+      "organization": "N/A",
+      "date": "Aug'23",
+      "key_responsibilities": "Trained a YOLOv5 model on a custom dataset, achieving precise pothole identification and localization. Deployed the model on a website for real-time detection."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Machine Learning Intern",
+      "organization": "Mentorness",
+      "duration": "Jan'24 - Feb'24",
+      "responsibilities": "Utilized Jupyter Notebook and Google Colab for dataset examination. Conducted data pre-processing, EDA, ML model selection, training, and cross-validation."
+    }
+  ],
+  "skills": {
+    "programming_languages": ["JAVA", "Python"],
+    "libraries": ["Numpy", "Pandas", "Matplotlib"],
+    "software_packages": ["Google Colab", "PyCharm", "Jupyter Notebook", "VS Code", "MS Office"],
+    "technical_skills": ["Machine Learning", "Deep Learning", "Data Structure", "OOPs", "DSA"],
+    "soft_skills": ["Time Management", "Problem Solving", "Team Work", "Chess", "Quick Learning"],
+    "ai_tools": ["ChatGPT", "GemiNi", "Merlin"]
+  },
+  "awards_and_achievements": [
+    {
+      "title": "Winner of Impetus Project Competition",
+      "description": "Showcased exceptional skills in innovation, problem-solving, and project execution."
+    },
+    {
+      "title": "Research Paper Published",
+      "description": "Published Research Paper on Line-Guided Load Shifter in Conference Proceedings."
+    },
+    {
+      "title": "Awarded Concession Certificate",
+      "description": "Awarded Concession Certificate for Line-Guided Load Shifter Project at Expo 2023."
+    }
+  ],
+  "extracurricular_activities": [
+    {
+      "role": "Sports Secretary",
+      "activity": "Coordinated and managed various athletic events and initiatives at IET, Kannad."
+    }
+  ]
+}
